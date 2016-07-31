@@ -28,4 +28,4 @@ while True:
     print("Time over")
     winsound.Beep(1000,1000)
 
-    input("Press any key")
+    input("New time tracking, press enter")
